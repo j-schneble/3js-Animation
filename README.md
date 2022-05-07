@@ -1,6 +1,6 @@
-# Welcome! This repository contains the full source code for a 3D Electric Wave Animation using React, Three.js, and react-three-fiber. 
+Welcome! This repository contains the full source code for a 3D Electric Wave Animation using React, Three.js, and react-three-fiber. 
 
-# Usage
+Usage
 To run this project, first clone the repository:
 
 Then, install the necessary project dependencies:
@@ -18,4 +18,4 @@ To build the project for a production environment:
 npm build
 ```
 
-Please note that this is a React project created with `create-react-app`.
+
